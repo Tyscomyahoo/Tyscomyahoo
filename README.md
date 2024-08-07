@@ -10,3 +10,4 @@
 Tyscomyahoo/Tyscomyahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hey I'm Aditi a tech enthusiast doing bachelor's in Computer Science Engineering learning new tech stacks.Looking forward to contribute and collaborate.
